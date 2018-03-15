@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<messages>
+    <message>
+        <mailto>mri32802@sawoe.com</mailto>
+        <mailsubject>Test Mail</mailsubject>
+        <mailmessage>Hi!</mailmessage>
+    </message>
+</messages>
